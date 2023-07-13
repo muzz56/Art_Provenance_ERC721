@@ -19,6 +19,6 @@
   "homepage": "https://github.com/muzz56/Art_Provenance_ERC721#readme",
   "dependencies": {
     "solc": "^0.6.9",
-    "truffle": "^5.1.28"
+    "truffle": "^5.10.2"
   }
 }
